@@ -4,5 +4,5 @@
 int _putchar(char c);
 int _isupper(int c);
 
-#endif /* MAIN_H *?
+#endif /* MAIN_H */
 
