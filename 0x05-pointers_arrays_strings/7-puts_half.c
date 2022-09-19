@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * print_rev - print a string in reverse
- * @s: char array string type
+ * puts_half - print second half of a string
+ * @str: char array string type
+ * Description: If odd number of chars, print (length - 1) / 2
  */
 
 void puts_half(char *str)
@@ -15,7 +16,7 @@ void puts_half(char *str)
 		;
 
 	j = i / 2;
-	for (c = 0; c < j; c++)
+	for (c = i; c > j; c--)
 		_putchar(str[c]);
 
 	_putchar('\n');
