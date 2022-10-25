@@ -45,6 +45,7 @@ typedef struct listp_s
 } listp_t;
 
 size_t print_listint_safe(const listint_t *head);
+size_t free_listint_safe(listint_t **h);
 
 #endif
 
