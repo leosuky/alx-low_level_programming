@@ -1,0 +1,9 @@
+Task 0 - Write a function that converts a binary number to an unsigned int.\n
+Task 1 - Write a function that prints the binary representation of a number.\n
+Task 2 - Write a function that returns the value of a bit at a given index.\n
+Task 3 - Write a function that sets the value of a bit to 1 at a given index.\n
+Task 4 - Write a function that sets the value of a bit to 0 at a given index.\n
+Task 5 - Write a function that returns the number of bits you would need to flip to get from one number to another.\n
+Task 6 - Write a function that checks the endianness.\n
+Task 7 - Find the password for this program.\n
+
